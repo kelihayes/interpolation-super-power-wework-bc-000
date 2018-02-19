@@ -1,5 +1,5 @@
 # Write your #display_rainbow method here
-def display_rainbow = (colors)
+def display_rainbow(colors)
 colors = ["red","orange","yellow","green","blue","indigo","violet"]
 puts "first: # {colors [0]"
 puts "second: # {colors [1]"
